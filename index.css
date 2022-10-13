@@ -80,3 +80,7 @@ button {
     width: 100px;
     height: 30px;
 }
+
+.table-description {
+    padding-left: 10px;
+}
